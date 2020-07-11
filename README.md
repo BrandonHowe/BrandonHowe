@@ -16,17 +16,15 @@ All these projects have a front-end, a back-end, and a database.
 
 ### Skills
 
-* Skills
-  * VueJS
-  * TypeScript
-  * Koa
-  * PostgreSQL
-  * Git
-* Tools
-  * Knex
-  * Mocha/Chai
-  * Nuxt
-  * Github CI
-* Intermediate skills
-  * Angular
-  * PureScript
+Skills | Tools | Intermediate skills
+:----- | :---: | ------------------:
+VueJS | Nuxt | Angular
+TypeScript | Mocha/Chai | Purescript
+PostgreSQL | Knex |
+Git | Github CI |
+
+I can also work with package managers (NPM, Yarn, etc) and hosting platforms (Heroku, DO).
+
+### Collaboration
+
+I can collaborate with other people on code seamlessly and easily. I am capable of using Git to have detailed commit messages, separate branches, and pull requests. I understand the differences between merging, rebasing, and squash-merging, and I can label pull requests according to their uses.
