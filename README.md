@@ -4,7 +4,7 @@
 
 ### About me
 
-I have been coding on and off since the age of 8, and I have been coding a lot since just over a year ago. Since then, my focus has been primarily on web development.
+I have been coding on and off since the age of 8, and I have been coding a lot since just over a year ago. Since then, my focus has been primarily on web development. You can contact me on Discord as [ImperialWater#2125](https://discord.com/users/371244109383335937).
 
 ### Projects
 
