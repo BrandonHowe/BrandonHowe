@@ -4,27 +4,11 @@
 
 ### About me
 
-I have been coding on and off since the age of 8, and I have been coding a lot since just over a year ago. Since then, my focus has been primarily on web development. You can contact me on Discord as [ImperialWater#2125](https://discord.com/users/371244109383335937).
+I have been coding on and off since the age of 8, and I have been coding a lot since two years ago. Since then, my focus has been primarily on web development. You can contact me on Discord as [ImperialWater#2125](https://discord.com/users/371244109383335937).
 
 ### Projects
 
-All these projects have a front-end, a back-end, and a database.
-
-* Petris - My first major project. It was a large project, with the web portion spanning 6 months. The purpose of it was to gather enough data to make a neural network to solve the P vs NP problem.
+* Petris - My first major project. It was a large project, with the web portion spanning 6 months. The purpose of it was to gather enough data to make a neural network to solve the P vs NP problem, though unfortunately this approach was rendered fruitless.
 * Project Unknown - I was hired as a developer to work for the cook group Project Unknown. I built website monitors, as well as a website with a payment system.
-* King Typer - I worked on this project with a colleague for the Romanian coding contest, [Infoeducatie](https://infoeducatie.ro). This project is a typing site, where you could learn to type, practice your skills, and compete with others.
-
-### Skills
-
-Skills | Tools | Intermediate skills
-:----- | :---: | ------------------:
-VueJS | Nuxt | Angular
-TypeScript | Mocha/Chai | Purescript
-PostgreSQL | Knex |
-Git | Github CI |
-
-I can also work with package managers (NPM, Yarn, etc) and hosting platforms (Heroku, DO).
-
-### Collaboration
-
-I can collaborate with other people on code seamlessly and easily. I am capable of using Git to have detailed commit messages, separate branches, and pull requests. I understand the differences between merging, rebasing, and squash-merging, and I can label pull requests according to their uses.
+* King Typer - I worked on this project with a colleague for the Romanian coding contest, [Infoeducatie](https://infoeducatie.ro). This project is a typing site, where you could learn to type, practice your skills, and compete with others. The site is now down due to hosting issues.
+* TouchByTouch (private) - I developed the website for a service which allows people to view and score tournaments and dual meets for high school fencing. Viewable at [tbtfencing.com](https://tbtfencing.com).
