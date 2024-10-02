@@ -1,23 +1,15 @@
-# Hi, I'm xWafl
+# Hi, I'm Brandon Howe
 
-## I'm a motivated, self-driven web developer with a focus on learning and building new things.
+## I'm a motivated, self-driven developer with a focus on learning and building new things.
 
-[![xWafl's github stats](https://github-readme-stats.vercel.app/api?username=xWafl)](https://github.com/anuraghazra/github-readme-stats)
+I have nearly 2 and a half years of professional experience at Mechanical Solutions, Inc. and over a decade of hobby experience. You can contact me on Discord as [authleft](https://discord.com/users/371244109383335937). Currently studying modern C. My resume can be found here.
 
-I have been coding on and off since the age of 8, and I have been coding a lot since two years ago. Since then, my focus has been primarily on web development. You can contact me on Discord as [ImperialWater#2125](https://discord.com/users/371244109383335937).
+## Projects
 
-### Projects
+Many of these projects don't have public source code for various reasons. The ones that do are linked on my profile.
 
-* Petris - My first major project. It was a large project, with the web portion spanning 6 months. The purpose of it was to gather enough data to make a neural network to solve the P vs NP problem, though unfortunately this approach was rendered fruitless.
-* Project Unknown - I was hired as a developer to work for the cook group Project Unknown. I built website monitors, as well as a website with a payment system.
-* King Typer - I worked on this project with a colleague for the Romanian coding contest, [Infoeducatie](https://infoeducatie.ro). This project is a typing site, where you could learn to type, practice your skills, and compete with others. The site is now down due to hosting issues.
-* TouchByTouch (private) - I developed the website for a service which allows people to view and score tournaments and dual meets for high school fencing. Viewable at [tbtfencing.com](https://tbtfencing.com).
-
-### Skills
-
-Skills | Tools | Intermediate skills
-:----- | :---: | ------------------:
-VueJS | npm/yarn | PureScript
-TypeScript | Mocha/Chai | Flutter
-React | Knex/Prisma | PostgreSQL
-Koa | Github Actions |
+* [Touch by Touch](https://tbtfencing.com) - My main project. TbT is a live scorekeeping service for fencing. Right now it services NCAA meets as well as the NJ high school fencing scene.
+* [Disco Tower]([https://BrandonHowe.github.io/DiscoTower](https://brandonhowe.github.io/DiscoTower/) - A game I made in 24 hours for GirlHacks 2024. The central concept is that it is a rhythm-based roguelike, where you can take actions on each beat of the music.
+* Project Unknown - I developed a series of world-class bots that monitored luxury clothing brands for restocks. The bots would send info about restocks to paying members of a reselling group called Project Unknown
+* King Typer - I worked on this project with a friend for the Romanian national olympiad [Infoeducatie](https://infoeducatie.ro). King Typer is a site where you can learn to touch type, practice your skills, and compete with others in a real-time multiplayer environment. Note: site is now down due to Heroku removing their free tier
+* Petris - My first major project. Petris is a modified version of Tetris with different pieces and game modes, with intent to gather enough data to make a neural network to solve the P vs NP problem, though unfortunately this approach was rendered fruitless. Note: site is now down due to Heroku removing their free tier
