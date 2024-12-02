@@ -2,7 +2,7 @@
 
 ## I'm a motivated, self-driven developer with a focus on learning and building new things.
 
-I have nearly 2 and a half years of professional experience at Mechanical Solutions, Inc. and over a decade of hobby experience. Currently studying modern C. My resume can be found here.
+I have 2 and a half years of professional experience at Mechanical Solutions, Inc. and over a decade of hobby experience. Currently studying modern C. My resume can be found here.
 
 ## Projects
 
