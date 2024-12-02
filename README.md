@@ -2,7 +2,7 @@
 
 ## I'm a motivated, self-driven developer with a focus on learning and building new things.
 
-I have nearly 2 and a half years of professional experience at Mechanical Solutions, Inc. and over a decade of hobby experience. You can contact me on Discord as [authleft](https://discord.com/users/371244109383335937). Currently studying modern C. My resume can be found here.
+I have nearly 2 and a half years of professional experience at Mechanical Solutions, Inc. and over a decade of hobby experience. Currently studying modern C. My resume can be found here.
 
 ## Projects
 
