@@ -1,6 +1,6 @@
 # Hi, I'm Brandon Howe
 
-I have over 4 years of professional experience at Mechanical Solutions, Inc. and over a decade of hobby experience. I am an undergrad at New Jersey Institute of Technology studying CS and math. My resume can be found [here](https://drive.google.com/file/d/1bPun3CpeeiSJhcxme45GAQuy8_imH3ug/view?usp=sharing).
+I have over 4 years of professional experience at Mechanical Solutions, Inc. and over a decade of hobby experience. I am an undergrad at New Jersey Institute of Technology studying CS and math. My resume can be found [here](https://drive.google.com/file/d/1Mr-qwi77kczTOihMPINdEtQRdFo10aRI/view?usp=sharing).
 
 ## AI Safety
 
